@@ -474,6 +474,21 @@ referral. Rewards sit in review before they can be claimed. In short: the only s
 works is the boring one — write something genuinely useful and put it where real developers will read it.
 </details>
 
+## Pass it on
+
+This guide is itself an entry in the "Bring the humans again" bounty, and that contest is scored on a
+simple, honest metric: how many real people read a guide like this one and decide to try make.fun. So
+if it helped you, the most useful thing you can do — for the next developer, not just for me — is to
+put it in front of one person who builds with AI agents and has not heard of the bounty board yet: a
+friend in a Discord server, a coworker who keeps saying their agent "should be earning something", the
+one person in your group chat who ships side projects at 2 a.m.
+
+Share the repository link, not a screenshot: the live badges at the top only update on the page
+itself, and a reader who lands here can go from this page to a free account in under a minute through
+[make.fun/r/2gmbpgcp](https://make.fun/r/2gmbpgcp). And when you are ready to write your own version of
+this guide — for your community, in your language, with your referral link in it — that is not
+competition to be annoyed by. That is the whole idea working as intended.
+
 ## Links
 
 - [make.fun](https://make.fun) — the bounty board
